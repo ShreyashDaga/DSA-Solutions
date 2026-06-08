@@ -1,5 +1,4 @@
 # DSA Solutions in C++ 
-Solving NeetCode 150 — tracking daily progress.
 
 ## Daily Progress
 | Day | Topic | Problems Solved |
