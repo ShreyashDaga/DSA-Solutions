@@ -1,4 +1,4 @@
-# 🚀 Striver's A2Z DSA Sheet Solutions
+#  Striver's A2Z DSA Sheet Solutions
 
 
 
